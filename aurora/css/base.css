@@ -986,7 +986,7 @@ div[style*="width: 100%; height: 20px"] {
 /*4. Channels Area*/
 /*4.a. Channels*/
 .channels-Ie2l6A:hover {
-	width:320px;
+	/*width:320px;*/
 }
 .channels-Ie2l6A {
     transition:.3s width ease;
