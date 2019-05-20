@@ -742,7 +742,7 @@ div[style*="width: 100%; height: 20px"] {
     background-position: bottom 50% right 78px, bottom 0% right 0%;
     background-repeat: no-repeat;
     background-size: 40%, cover;
-    transition:325ms width, 325ms background-size, 325ms right;
+    /*transition:325ms width, 325ms background-size, 325ms right;*/
 }
 .privateChannels-1nO12o .searchBar-6Kv8R2:hover {
     /*width:965px;
