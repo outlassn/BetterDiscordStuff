@@ -753,14 +753,14 @@ div[style*="width: 100%; height: 20px"] {
     color:#fff;
 }
 .privateChannels-1nO12o .searchBar-6Kv8R2:hover:after {
-    content:"Search Messages";
+    /*content:"Search Messages";
     color:#fff;
     position:absolute;
     right:220px;
     height:255px;
     overflow:hidden;
     line-height:230px;
-    font-size:88px;
+    font-size:88px;*/
 }
 .privateChannels-1nO12o .searchBar-6Kv8R2 input {
   pointer-events: initial;
